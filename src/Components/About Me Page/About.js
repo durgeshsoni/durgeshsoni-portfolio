@@ -41,7 +41,7 @@ function About() {
 <br>
 </br>
 
-<h2 className="about__heading">My Skills</h2>
+<h2 className="about__heading" id="skill">My Skills</h2>
 <br>
 </br>
       <div className="techstackMarginBox">
